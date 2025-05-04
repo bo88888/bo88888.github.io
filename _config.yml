@@ -7,7 +7,7 @@ favicon: https://bo88888.github.io/images/favicon.ico
 navigation:
   - name: 首页
     url: /
-  - name: 友链
+  - name: 关于
     url: /about
   - name: 分类
     url: /tags
