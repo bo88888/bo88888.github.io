@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/966005ce-49d8-4fd3-98bd-138a940f34c0)---
+---
 layout: page
 title: ‎友情链接
 permalink: /Friendly/
