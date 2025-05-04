@@ -25,7 +25,7 @@ author: 无
 | 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | Windows |
 | bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 全系统 |
 | 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 全系统 |
-| 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 全系统 |
+| AdGuard |  [点击前往](https://https://adguard.com/zh_cn/welcome.html)  | 全系统 |
 
 
 ## 目录
@@ -38,6 +38,7 @@ author: 无
 - [WPS专业版](#mulu6)
 - [Everything](#mulu7)
 - [Quicker](#mulu8)
+- [AdGuard](#mulu9)
 
 ---
 
@@ -95,3 +96,8 @@ author: 无
 
 [前往下载](https://getquicker.net)
 
+### AdGuard<a id="mulu9"></a>
+
+一款兼备颜值和实力的广告拦截工具。
+
+它不仅支持全平台（iOS、Android、PC）的广告屏蔽，还可以满足用户对弹窗拦截、隐私保护等功能的需求。而且它是从系统层面进行屏蔽，无论你用什么浏览器都可以。
