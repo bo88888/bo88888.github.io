@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/966005ce-49d8-4fd3-98bd-138a940f34c0)---
 layout: page
 title: ‎友情链接
 permalink: /Friendly/
@@ -27,5 +27,6 @@ permalink: /Friendly/
 
 [荔枝软件购买](https://www.lizhi.shop) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Markdown 教程](https://markdown.com.cn/)
 
+[天启接码](https://www.tqsms.xyz) 
 
 ---
