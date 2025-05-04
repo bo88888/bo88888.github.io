@@ -15,7 +15,7 @@ permalink: /Friendly/
 
 ---
 <font size="3"><strong>软件下载<a id="mulu1"></a></strong></font>
-  <li> <a href="https://www.google.com/chrome/">谷歌浏览器</a> </li>
+ <p align = "center"> <img  src="https://bo88888.github.io/images/勃朗峰雪山.jpeg" width="2" /> <a href="https://www.google.com/chrome/">谷歌浏览器</a> </p>
   <li> <a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">Edge浏览器</a> </li>
   
 ---
