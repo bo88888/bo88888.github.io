@@ -24,7 +24,7 @@ author: 无
 | VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | Windows |
 | 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | Windows |
 | bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 全系统 |
-| 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk")  | 全系统 |
+| 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 全系统 |
 
 
 ## 目录
