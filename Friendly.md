@@ -9,18 +9,18 @@ permalink: /Friendly/
 
 # 目录
 
-- [软件下载](#mulu1)
-- [站长工具](#mulu2)
+## - [软件下载](#mulu1)
+## - [站长工具](#mulu2)
 
 ---
-## 软件下载<a id="mulu1"></a>
+### 软件下载<a id="mulu1"></a>
 
 - [谷歌浏览器](https://www.google.com/chrome)
 
 - [Edge浏览器](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)
 
 ---
-## 站长工具<a id="mulu2">
+### 站长工具<a id="mulu2">
 
 - [随机密码生成](https://www.lddgo.net/string/randompassword)
 
