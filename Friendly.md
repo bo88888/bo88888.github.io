@@ -16,7 +16,7 @@ permalink: /Friendly/
 ---
 <font size="3"><strong>软件下载<a id="mulu1"></a></strong></font>
   <li> <a href="https://www.google.com/chrome/">谷歌浏览器</a> </li>
-  <li> <a href="https://https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">Edge浏览器</a> </li>
+  <li> <a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">Edge浏览器</a> </li>
   
 ---
 <font size="3"><strong>站长工具<a id="mulu2"></a></strong></font>
