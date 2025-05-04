@@ -4,7 +4,7 @@ title: ‎友情链接
 permalink: /Friendly/
 ---
 
-<p align = "center">    
+<p align = "center"> 
 <img  src="https://bo88888.github.io/images/勃朗峰雪山.jpeg" width="1000" /> </p>
 
 # 目录
