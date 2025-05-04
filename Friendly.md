@@ -4,7 +4,6 @@ title: ‎
 permalink: /Friendly/
 ---
 
-
 <br>
 
 <p align = "center">    
