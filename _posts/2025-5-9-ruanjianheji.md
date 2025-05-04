@@ -22,7 +22,7 @@ author: 无
 | Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | Windows |
 | Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | Windows |
 | VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | Windows |
-| 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iP)  | Windows |
+| 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | Windows |
 | bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 全系统 |
 | 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk")  | 全系统 |
 
