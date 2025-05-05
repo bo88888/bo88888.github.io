@@ -15,7 +15,7 @@ permalink: /Friendly/
 
 ## 软件下载<a id="mulu1"></a>
 
-[谷歌浏览器](https://www.google.com/chrome) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Edge浏览器](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)
+<img src="https://bo88888.github.io/images/gugeliulanqi:logo.png" width="18" height="18">&nbsp;[谷歌浏览器](https://www.google.com/chrome)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Edge浏览器](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)
 
 ---
 
