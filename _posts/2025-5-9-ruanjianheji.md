@@ -37,8 +37,9 @@ author: 无
 - [Bandizip](#mulu5)
 - [WPS专业版](#mulu6)
 - [Everything](#mulu7)
-- [Quicker](#mulu8)
-- [AdGuard](#mulu9)
+- [希沃零度系统还原](#mulu8)
+- [Quicker](#mulu9)
+- [AdGuard](#mulu10)
 
 ---
 
@@ -81,14 +82,21 @@ author: 无
 [Everything](https://www.voidtools.com) 本地文件名搜索软件里的天花板，绿色安全无广告，体积小巧，界面简单，占用系统资源极低，可以实时跟踪文件变化、瞬间定位文件，在你输入搜索词时那一刻，即显示出匹配结果
 
 ---
-### Quicker<a id="mulu8"></a>
+### 希沃零度系统还原<a id="mulu8"></a>
+  
+[希沃零度](https://www.ilanzou.com/s/na1Z0iPl) 由Seewo团队自研的一款系统还原软件，它可以将系统还原到初始状态，保护系统不被更改
+
+能够很好的抵御病毒的入侵以及人为的对系统有意或无意的破坏
+
+---
+### Quicker<a id="mulu9"></a>
 
 [Quicker](https://getquicker.net) 一键唤出快捷面板，搭配「动作库」轻松完成各种复杂操作。
 
 比如搜索、翻译、OCR、Excel 处理、PS 处理、传文件等，想到的想不到的，基本都有。动作库里有全网用户贡献的上千个动作，非常强大。
 
 ---
-### AdGuard<a id="mulu9"></a>
+### AdGuard<a id="mulu10"></a>
 
 [AdGuard](https://adguard.com/zh_cn/welcome.html) 一款兼备颜值和实力的广告拦截工具。
 
