@@ -17,7 +17,7 @@ author: 无
 | Edge浏览器 |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 浏览器 |
 | kaspersky(卡巴斯基) |  [点击前往](https://www.kaspersky.com.cn/free-antivirus)  | 安全 |
 | 火绒安全 |  [点击前往](https://www.huorong.cn)  | 安全 |
-| Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 系统 |
+| Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 解压刻录 |
 | WPS专业版 |  [点击前往](https://www.ilanzou.com/s/rqCZZKDN)  | 办公 |
 | Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | 办公 |
 | Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | 办公 |
