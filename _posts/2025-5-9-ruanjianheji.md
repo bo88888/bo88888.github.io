@@ -44,24 +44,24 @@ author: 无
 
 ### Edge浏览器<a id="mulu1"></a>
 
-[Edge浏览器](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB) 微软基于Chromium开源项目及其他开源软件开发的网页浏览器;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核
+[Microsoft edge](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB) 作为微软基于Chromium开源项目及其他开源软件开发的网页浏览器;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核;体验世界一流的性能，享有更多隐私，同时提高工作效率。
 
 ---
 ### 谷歌浏览器<a id="mulu2"></a>
 
-[谷歌浏览器](https://www.google.com/chrome) 简洁的设计、快速稳定的性能以及颇具特色的插件极其丰富
+[谷歌浏览器](https://www.google.com/chrome) 简洁的设计、快速稳定的性能以及颇具特色的插件极其丰富;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核;体验世界一流的性能，享有更多隐私，同时提高工作效率。
 
 ---
 ### kaspersky(卡巴斯基)<a id="mulu3"></a>
 
-[kaspersky](https://www.kaspersky.com.cn/free-antivirus) 抵御针对您的设备、应用和网络的威胁，提升您的设备性能，保护您的隐私，包括网路摄像头、麦克风和视频通话等。
+[kaspersky](https://www.kaspersky.com.cn/free-antivirus) 反病毒软件是您计算机安全系统的基础，能够在后台为系统提供快捷和值得信赖的反病毒和反间谍软件保护;抵御针对您的设备、应用和网络的威胁，提升您的设备性能，保护您的隐私，包括网路摄像头、麦克风和视频通话等。
 
 ---
 ### 火绒安全<a id="mulu4"></a>
 
 配合:卡巴斯基使用
 
-[火绒安全](https://www.huorong.cn) 轻量安静，良心好用的电脑安全软件。自带的小工具，包括弹窗拦截、右键管理、垃圾清理、流量监控等，也很实用。
+[火绒安全](https://www.huorong.cn) 是一款轻量安静，良心好用的电脑安全软件。自带的小工具，包括弹窗拦截、右键管理、垃圾清理也很实用。
 
 最受欢迎的肯定是它的弹窗拦截功能，它可以屏蔽电脑中出现的任何弹窗。它会自动过滤一些常用软件的弹窗，如果出现漏网之鱼，我们也能主动将其屏蔽。有了火绒，你就可以和那些烦人的弹窗广告说拜拜了。
 
@@ -75,7 +75,7 @@ author: 无
 ---
 ### WPS专业版<a id="mulu6"></a>
 
-[WPS专业版](https://www.ilanzou.com/s/rqCZZKDN) 无广告，界面简洁，自带VBA宏
+[WPS专业版](https://www.ilanzou.com/s/rqCZZKDN) 无广告，界面简洁，自带VBA宏;让你获得更清爽简洁的办公体验
 
 ---
 ### Everything<a id="mulu7"></a>
@@ -95,5 +95,3 @@ author: 无
 [AdGuard](https://adguard.com/zh_cn/welcome.html) 一款兼备颜值和实力的广告拦截工具。
 
 它不仅支持全平台（iOS、Android、PC）的广告屏蔽，还可以满足用户对弹窗拦截、隐私保护等功能的需求。而且它是从系统层面进行屏蔽，无论你用什么浏览器都可以。
-
----
