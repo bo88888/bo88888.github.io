@@ -13,8 +13,8 @@ author: 无
 
 | 文件名 <img width=200/>| 点击穿越 <img width=100/>| 分类<img width=100/> |
 | :-----| :---- | :---- |
-| Edge |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 浏览器 |
-| Chrome |  [点击前往](https://www.google.com/chrome)  | 浏览器 |
+| Chrome浏览器 |  [点击前往](https://www.google.com/chrome)  | 浏览器 |
+| Edge浏览器 |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 浏览器 |
 | kaspersky(卡巴斯基) |  [点击前往](https://www.kaspersky.com.cn/free-antivirus)  | 安全 |
 | 火绒安全 |  [点击前往](https://www.huorong.cn)  | 安全 |
 | Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 系统 |
