@@ -26,6 +26,7 @@ author: 无
 | bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 安全 |
 | 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 办公 |
 | AdGuard |  [点击前往](https://adguard.com/zh_cn/welcome.html)  | 安全 |
+| TextSeek |  [点击前往](https://www.textseek.net/cn)  | 系统 |
 
 
 ## 目录
@@ -40,6 +41,7 @@ author: 无
 - [希沃零度系统还原](#mulu8)
 - [Quicker](#mulu9)
 - [AdGuard](#mulu10)
+- [TextSeek](#mulu11)
 
 ---
 
@@ -91,11 +93,18 @@ author: 无
 
 [Quicker](https://getquicker.net) 一键唤出快捷面板，搭配「动作库」轻松完成各种复杂操作。
 
-比如搜索、翻译、OCR、Excel 处理、PS 处理、传文件等，想到的想不到的，基本都有。动作库里有全网用户贡献的上千个动作，非常强大。
+比如搜索、翻译、OCR、Excel 处理、PS 处理、传文件等
+
+想到的想不到的，基本都有。动作库里有全网用户贡献的上千个动作，非常强大。
 
 ---
-### AdGuard<a id="mulu10"></a>
+### AdGuard(收费)<a id="mulu10"></a>
 
 [AdGuard](https://adguard.com/zh_cn/welcome.html) 一款兼备颜值和实力的广告拦截工具。
 
 它不仅支持全平台（iOS、Android、PC）的广告屏蔽，还可以满足用户对弹窗拦截、隐私保护等功能的需求。而且它是从系统层面进行屏蔽，无论你用什么浏览器都可以。
+
+---
+### TextSeek(收费)<a id="mulu11"></a>
+
+[TextSeek](https://www.textseek.net/cn) 是一款专业高效的全文搜索引擎，全文搜索无遗漏，无索引高速查找，极速预览+关键字高亮
