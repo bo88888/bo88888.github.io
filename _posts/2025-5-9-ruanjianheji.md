@@ -19,8 +19,8 @@ author: 无
 | 火绒安全 |  [点击前往](https://www.huorong.cn)  | 安全 |
 | Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 解压刻录 |
 | WPS专业版 |  [点击前往](https://www.ilanzou.com/s/rqCZZKDN)  | 办公 |
-| Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | 办公 |
-| Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | 办公 |
+| Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | 系统 |
+| Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | 系统 |
 | VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | 系统 |
 | 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | 系统 |
 | bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 安全 |
