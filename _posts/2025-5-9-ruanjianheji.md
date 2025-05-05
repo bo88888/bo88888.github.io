@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "软件中心"
-date:   2025-5-9
+date:   2025-4-9
 tags: [软件]
 comments: true
 author: 无
@@ -9,7 +9,7 @@ author: 无
 
 <!-- more -->
 
-## 文件下载列表
+## 软件列表
 
 | 文件名 <img width=200/>| 点击穿越 <img width=100/>| 适应系统<img width=100/> |
 | :-----| :---- | :---- |
