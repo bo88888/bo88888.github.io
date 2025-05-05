@@ -27,6 +27,6 @@ permalink: /Friendly/
 
 [荔枝软件购买](https://www.lizhi.shop) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Markdown 教程](https://markdown.com.cn/)
 
-[天启接码](https://www.tqsms.xyz) 
+[天启接码](https://www.tqsms.xyz) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IP查询](https://www.ip111.cn) 
 
 ---
