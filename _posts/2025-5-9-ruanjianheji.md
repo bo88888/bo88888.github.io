@@ -11,21 +11,21 @@ author: 无
 
 ## 软件列表
 
-| 文件名 <img width=200/>| 点击穿越 <img width=100/>| 适应系统<img width=100/> |
+| 文件名 <img width=200/>| 点击穿越 <img width=100/>| 分类<img width=100/> |
 | :-----| :---- | :---- |
-| Edge浏览器 |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 全系统 |
-| 谷歌浏览器 |  [点击前往](https://www.google.com/chrome)  | 全系统 |
-| kaspersky(卡巴斯基) |  [点击前往](https://www.kaspersky.com.cn/free-antivirus)  | Windows |
-| 火绒安全 |  [点击前往](https://www.huorong.cn)  | Windows |
-| Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 全系统 |
-| WPS专业版 |  [点击前往](https://www.ilanzou.com/s/rqCZZKDN)  | Windows |
-| Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | Windows |
-| Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | Windows |
-| VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | Windows |
-| 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | Windows |
-| bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 全系统 |
-| 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 全系统 |
-| AdGuard |  [点击前往](https://adguard.com/zh_cn/welcome.html)  | 全系统 |
+| Edge |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 浏览器 |
+| Chrome |  [点击前往](https://www.google.com/chrome)  | 浏览器 |
+| kaspersky(卡巴斯基) |  [点击前往](https://www.kaspersky.com.cn/free-antivirus)  | 安全 |
+| 火绒安全 |  [点击前往](https://www.huorong.cn)  | 安全 |
+| Bandizip压缩 |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 系统 |
+| WPS专业版 |  [点击前往](https://www.ilanzou.com/s/rqCZZKDN)  | 办公 |
+| Everything文件名搜索 |  [点击前往](https://www.voidtools.com)  | 办公 |
+| Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | 办公 |
+| VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | 系统 |
+| 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | 系统 |
+| bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 安全 |
+| 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 办公 |
+| AdGuard |  [点击前往](https://adguard.com/zh_cn/welcome.html)  | 安全 |
 
 
 ## 目录
