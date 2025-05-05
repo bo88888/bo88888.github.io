@@ -15,7 +15,7 @@ permalink: /Friendly/
 
 ## 软件下载<a id="mulu1"></a>
 
-[谷歌浏览器](https://www.google.com/chrome)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Edge浏览器](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)
+[腾讯软件](https://pc.qq.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;[黑域软件](https://www.hybase.com)
 
 ---
 
