@@ -107,4 +107,4 @@ author: 无
 ---
 ### TextSeek(收费)<a id="mulu11"></a>
 
-[TextSeek](https://www.textseek.net/cn) 是一款专业高效的全文搜索引擎，全文搜索无遗漏，无索引高速查找，极速预览+关键字高亮
+[TextSeek](https://www.textseek.net/cn) 一款专业高效的全文搜索引擎，全文搜索无遗漏，无索引高速查找，极速预览+关键字高亮
