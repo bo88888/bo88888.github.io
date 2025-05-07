@@ -17,8 +17,6 @@ permalink: /Friendly/
 
 [腾讯软件](https://pc.qq.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[黑域软件](https://www.hybase.com)
 
-[荔枝软件购买](https://www.lizhi.shop) 
-
 ---
 
 ## 站长工具<a id="mulu2">
