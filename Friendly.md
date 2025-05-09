@@ -5,7 +5,7 @@ permalink: /Friendly/
 ---
 
 <p align = "center"> 
-<img  src="https://bo88888.github.io/images/勃朗峰雪山.jpeg" width="1000"> </p>
+<img  src="https://bo88888.github.io/images/登顶.png" width="900"> </p>
 
 # 目录
 
