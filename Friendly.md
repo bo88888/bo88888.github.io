@@ -23,7 +23,7 @@ permalink: /Friendly/
 
 [蓝奏云优享版](https://www.ilanzou.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [蓝奏云](https://www.lanzou.com) 
 
-[奶牛快传](https://cowtransfer.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[下厨房](https://www.xiachufang.com)
+[奶牛快传](https://cowtransfer.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [随机密码生成](https://www.lddgo.net/string/randompassword)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [网易邮箱](https://email.163.com/) 
 
