@@ -23,7 +23,7 @@ author: 无
 | Quicker鼠标快捷 |  [点击前往](https://getquicker.net)  | 系统 |
 | VMware 虚拟机 |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | 系统 |
 | 希沃零度系统还原 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | 系统 |
-| bitwarden密码管理 |  [点击前往](https://bitwarden.com/products/personal)  | 安全 |
+| keepass密码管理 |  [点击前往](https://keepass.info/)  | 安全 |
 | 蓝奏云挂载 |  [点击前往](https://github.com/chenhb23/lanzouyun-disk)  | 办公 |
 | AdGuard |  [点击前往](https://adguard.com/zh_cn/welcome.html)  | 安全 |
 | TextSeek |  [点击前往](https://www.textseek.net/cn)  | 系统 |
